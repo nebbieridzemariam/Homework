@@ -11,19 +11,23 @@
 	font-size: 16px;
 }
 .container {
-	margin: 100px 140px;
+	max-width: 1195px;
+	width: 100%;
+	margin: 10px auto;
+	display: block;
 }
 .text1 {
 	max-width: 463px;
-	width: 100%;
-	 
-	
+	width: 100%;	
 }
 .heading {
 	font-family: 'Helvetica Neue Bold'
 	font-size: 32px;
 	padding-bottom: 45px;
 
+}
+.img1 {
+	width: 400px;
 }
 .blue {
 	color: #0A22F4;
@@ -35,14 +39,31 @@
 .imagecontainer {
 	max-width: 500px;
 	width: 100%;
-	margin-left: 800px;
-	margin-top: -400px;
+	margin-left: 50%;
+	margin-top: -300px;
+	padding-bottom: 45px;
 }
-.text2 {
+.box3{
+	width: 463px;
+	height: 385px;
 	margin-left: 50%;
 }
-.image2 {
-	max-width: 450px;
-	width: 100%;
-	margin-top: -200px;
+.img2 {
+	width: 400px;
+	margin-top: -300px;
+	margin-left: 5%;
+}
+.text {
+	font-family: Helvetica Neue;
+	font-size: 16px;
+	opacity: 0.8;
+}
+.satauri2 {
+	width: 197px;
+	height: 38px;
+	padding-bottom: 45px;
+	color: #171717;
+	font-size: 20px;
+	margin-left: 50%;
+	font-family: 'Helvetica Neue Bold'
 }
